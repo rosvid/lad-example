@@ -20,3 +20,8 @@ When first running the application the JSON file should be imported. This can be
 - `views` package in `src/main/java` contains the server-side Java views of your application.
 - `views` folder in `frontend/` contains the client-side JavaScript views of your application.
 - `themes` folder in `frontend/` contains the custom CSS styles.
+
+## Dashboard screenshots
+![dashboard-01](https://user-images.githubusercontent.com/15930548/219654180-2b49460a-9368-4a81-91a7-ab258fda5c8b.png)
+![dashboard-02](https://user-images.githubusercontent.com/15930548/219654183-a9f1afb4-fe34-4d08-b555-16fcd3696797.png)
+![dashboard-03](https://user-images.githubusercontent.com/15930548/219654170-eefd7885-4eb6-4c08-b2f4-57ed60461e76.png)
