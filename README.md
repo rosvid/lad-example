@@ -3,7 +3,9 @@
 This project demonstrates a Learning Analytics Dashboard (LAD) using Vaadin. This project was made as part of the "Plattformen und Systeme fürs eLearning" course at the Goethe University Frankfurt.
 
 For creating charts the ApexCharts add-on is used. The add-on is available at https://vaadin.com/directory/component/apexchartsjs.
+
 For creating word clouds kumo is used. The library is available at https://github.com/kennycason/kumo.
+
 For creating the map the LeafletMap add-on is used. The add-on is available at https://vaadin.com/directory/component/leafletmap-for-vaadin.
 
 ## Deploying and running to Production
