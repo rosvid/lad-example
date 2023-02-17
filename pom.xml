@@ -136,6 +136,21 @@
             <version>5.1.1</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.github.appreciated</groupId>
+            <artifactId>apexcharts</artifactId>
+            <version>23.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.xdev-software</groupId>
+            <artifactId>vaadin-maps-leaflet-flow</artifactId>
+            <version>2.0.3</version>
+        </dependency>
+        <dependency>
+            <groupId>com.kennycason</groupId>
+            <artifactId>kumo-core</artifactId>
+            <version>1.28</version>
+        </dependency>
     </dependencies>
 
     <build>
